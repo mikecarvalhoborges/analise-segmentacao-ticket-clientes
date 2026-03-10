@@ -30,6 +30,24 @@ A análise permite entender o nível de concentração de receita e identificar 
 
 ---
 
+## Perguntas de negócio
+
+Esta análise foi construída para responder algumas perguntas comuns em cenários de vendas:
+
+**1. Quais clientes possuem maior ticket médio?**  
+A identificação desses clientes permite priorizar estratégias de retenção e relacionamento.
+
+**2. Como os clientes se distribuem em termos de valor de compra?**  
+A segmentação em Alto, Médio e Baixo ticket permite entender a estrutura da base de clientes.
+
+**3. Existe concentração de faturamento em determinados segmentos?**  
+Ao calcular a participação percentual de cada grupo no faturamento total, é possível identificar riscos de dependência de poucos clientes.
+
+**4. Quais oportunidades de crescimento existem?**  
+Clientes de médio e baixo ticket podem representar oportunidades de aumento de receita por meio de estratégias de upsell, cross-sell ou programas de fidelização.
+
+---
+
 ## Query principal
 
 ```sql
