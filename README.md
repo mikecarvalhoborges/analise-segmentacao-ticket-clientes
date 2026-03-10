@@ -1,0 +1,1 @@
+# analise-segmentacao-ticket-clientes
