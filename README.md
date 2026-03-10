@@ -32,8 +32,6 @@ A análise permite entender o nível de concentração de receita e identificar 
 
 ## Perguntas de negócio
 
-Esta análise foi construída para responder algumas perguntas comuns em cenários de vendas:
-
 **1. Quais clientes possuem maior ticket médio?**  
 A identificação desses clientes permite priorizar estratégias de retenção e relacionamento.
 
