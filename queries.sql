@@ -1,8 +1,8 @@
 ---
 Arquivo separado com as queries:
-```sql
 -- Projeto: Segmentação de clientes por ticket médio
 
+```sql
 WITH base_cliente AS (
     SELECT 
         cliente,
